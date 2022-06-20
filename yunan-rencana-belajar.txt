@@ -1,0 +1,7 @@
+Rencana Belajar Yunan
+
+- Javascript
+  * Modern Javascript
+  * NodeJS
+- Database
+- API
