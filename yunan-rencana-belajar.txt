@@ -4,5 +4,7 @@ Rencana Belajar Yunan
   * Modern Javascript
   * NodeJS
 - PHP
+  * PHP Dasar
+  * PHP Oriented
 - Database
 - API
