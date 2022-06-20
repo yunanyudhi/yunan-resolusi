@@ -2,3 +2,5 @@ Yunan Resolusi
 - Memahami git & github
 - Konsisten belajar web programming / web development di channel WPU
 - Mengikuti beasiswa IDCamp dengan path machine learning developer
+- Membuat project lalu ditambahkan di portfolio
+- Kolaborasi dengan programmer lain
